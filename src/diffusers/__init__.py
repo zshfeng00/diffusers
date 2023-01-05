@@ -141,5 +141,6 @@ from .schedulers import (
 from .pipelines import OneFlowAltDiffusionPipeline
 from .pipelines import OneFlowStableDiffusionPipeline
 from .pipelines import OneFlowStableDiffusionImg2ImgPipeline
+from .pipelines import OneFlowStableDiffusionInpaintPipeline
 from .pipeline_oneflow_utils import OneFlowDiffusionPipeline
 from .modeling_oneflow_utils import OneFlowModelMixin
